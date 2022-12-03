@@ -26,7 +26,7 @@
 - Extract archives from direct / gdrive links
 - Support for multi-part 7z archives (archives ends with file extensions like `.001`, `.002`, etc.)
 - Custom thumbnail support
-- Muti-language support ([More info](https://github.com/Itz-fork/Unzipper-Bot/tree/main/unzipper/localization#readme))
+- Muti-language support ([More info](https://github.com/WatchNowBot/Unzipper-Botr/unzipper/localization#readme))
 - Upload files larger than 2GB to gofile.io
 - Backup extracted files to gofile.io
 - Broadcast messages to users
