@@ -4,9 +4,9 @@ VERSION="v1.0"
 echo "
     ||| Unzipper Bot - $VERSION |||
 
-Copyright (c) 2022 Itz-fork
+Copyright (c) 2022 
 
---> Join @NexaBotsUpdates
---> Follow Itz-fork on Github
+--> Join @letswatchitnow
+--> Follow US on Github
 "
 python3 -m unzipper
